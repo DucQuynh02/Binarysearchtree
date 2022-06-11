@@ -36,4 +36,5 @@ int main(){
 	for(int i=0;i<6;i++) root=insert(keys[i],root);
 	printInorder(root);
 	return 0;
+	//sua file
 }
